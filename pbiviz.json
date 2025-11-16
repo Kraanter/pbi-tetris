@@ -1,0 +1,25 @@
+{
+    "visual": {
+        "name": "tetris",
+        "displayName": "tetris",
+        "guid": "tetris",
+        "visualClassName": "Visual",
+        "version": "1.0.0.0",
+        "description": "Play tetris inside of PowerBI using a native Power BI scatterplot",
+        "supportUrl": "https://www.krijngrimme.nl",
+        "gitHubUrl": "https://github.com/kraanter"
+    },
+    "apiVersion": "5.11.0",
+    "author": {
+        "name": "Krijn Grimme",
+        "email": "krijn@infotopics.com"
+    },
+    "assets": {
+        "icon": "assets/icon.png"
+    },
+    "externalJS": null,
+    "style": "style/visual.less",
+    "capabilities": "capabilities.json",
+    "dependencies": "dependencies.json",
+    "stringResources": []
+}
